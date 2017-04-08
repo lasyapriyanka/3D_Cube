@@ -13,12 +13,14 @@ A LED cube is like a LED screen, but it is special in the case that it gives out
 
 ## Key Components: 
 + 512 Blue LED’s
-+ Soldering Kit, Jumper Wires, Resistors(10K) ★ 512 Blue LED’s
++ Resistors(10K) 
++ Soldering Kit 
++ Jumper Wires
 + Microcontroller board (Arduino UNO R3)
 + 74HC595 IC
 + Transistor
 
-## Link:
+## Demo:
 
 https://www.youtube.com/watch?v=q4I1nBXaMmY
 
