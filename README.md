@@ -22,3 +22,7 @@ control the LED cube.
 ★ 74HC595 IC
 ★ Transistor
 
+Link:
+
+https://www.youtube.com/watch?v=q4I1nBXaMmY
+
